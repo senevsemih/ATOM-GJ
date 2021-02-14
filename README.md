@@ -1,2 +1,2 @@
-# ATOMGJ---
+# ATOM - GJ
 Atom Game Jam 
